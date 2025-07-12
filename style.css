@@ -8,8 +8,9 @@
 html {
     scroll-behavior: smooth;
 }
-a{
-    list-style: none;
+.dev-info {
+    color: #d4af37;
+    text-decoration: none;
 }
 body {
     font-family: 'Poppins', sans-serif;
